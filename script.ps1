@@ -29,7 +29,7 @@ elseif($Name -eq 'Dymfna' -and $Color -eq 'red' -and $Weather -eq 'Mooi')
 {
 
 
-    ' welcome ' +$Name
+    ' welcome ' +$Name + ' hallo'
 
 
 
